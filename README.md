@@ -31,7 +31,6 @@ This project visualizes the **Longest Common Subsequence (LCS)** algorithm using
    ```
 2. Run:
 
-   ```
    java LCS
    ```
 
@@ -61,3 +60,7 @@ Length: 3
 * Java Swing
 * VS Code
 * Git & GitHub
+
+  ## Output:
+  <img width="1428" height="900" alt="output" src="https://github.com/user-attachments/assets/6a82e188-34d3-4acc-b384-53c9fcf60c0b" />
+
